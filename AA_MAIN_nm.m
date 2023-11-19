@@ -1,9 +1,9 @@
 %% Gruppe nm AA, Abgabe 28.09.2023
 % Gruppenitglieder:
-% Rêzan Berhan Işik, 455312
-% Junui Lee, 451259
-% Sokratis Panagiotidis, 393419
-% Valentin Benjamin Jimenez Anders, 490924
+% Rêzan Berhan Işik
+% Junui Lee
+% Sokratis Panagiotidis
+% Valentin Benjamin Jimenez Anders
 clc; clear; close all;                                                      % Knock everything out.
 
 %% Initialisierung
