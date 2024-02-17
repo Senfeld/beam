@@ -4,6 +4,8 @@ The program is given as is, and serves to generate loads at different points of 
 
 This project is part of [Module #20384 / #3, Numerics for Engineers I](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=20384&version=3&sprache=1), taught at TU Berlin.
 
+The final mark was a 1.0, which is the maximum score one can obtain in the German grading system.
+
 ![Untitled video - Made with Clipchamp](https://github.com/Senfeld/beam/assets/18214783/863366b6-b5cc-4de8-add1-f00a73f1cf60)
 
 ![untitled1](https://github.com/Senfeld/beam/assets/18214783/552f0497-eaea-48d6-ad26-e535dd32afde)
